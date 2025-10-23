@@ -10,8 +10,8 @@ Aplicația folosește următoarele clase principale pentru modelarea datelor:
 * Elev
 
   * string nume
-  * string prenume
   * int id
+
 * Notă
 
   * int valoare
