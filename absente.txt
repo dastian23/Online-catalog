@@ -1,0 +1,17 @@
+1;Matematica;2025-05-20;0
+2;Limba Romana;2025-05-21;0
+2;Limba Romana;2025-05-20;0
+3;Fizica;2025-05-22;0
+3;Matematica;2025-05-23;1
+4;Chimie;2025-05-24;0
+5;Informatica;2025-05-25;0
+6;Romana;2025-05-26;1
+7;Chimie;2025-05-27;1
+8;Biologie;2025-05-28;1
+9;Istorie;2025-05-29;0
+10;Matematica;2025-05-30;0
+11;Informatica;2025-06-01;0
+12;Romana;2025-06-02;1
+13;Romana;2025-06-01;1
+9;Romana;2025-02-21;0
+13;Matematica;2025-11-04;0
